@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Hello,World' > redirect.txt | less redirect.txt
+echo 'Hello,World' > redirect.txt|less redirect.txt
